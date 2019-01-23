@@ -1,3 +1,6 @@
+THIS IS A CUTOM VERSION OF PHANTOMBOT. DO NOT USE THIS FORK. IT PROBABLY DOESN'T WORK, AND WILL BE OUTATED.
+
+PLEASE USE THE ORIGINAL BRANCH!!!
 
 # <img alt="PhantomBot" src="https://i.zelakto.tv/images/bN4H.png" width="600px"/>
 
